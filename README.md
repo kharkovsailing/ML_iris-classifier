@@ -1,7 +1,7 @@
 # ML_iris-classifier
 # Iris Classifier – Dockerized Deep Learning Pipeline
 
-This repository contains a complete pipeline for training and running inference on the Iris flower classification dataset using PyTorch. It is fully Dockerized and includes unit tests and exception handling.
+This repository contains a complete pipeline for training and running inference on the Iris flower classification dataset using PyTorch. It is fully Dockerized and includes unit tests and exception handling.I did it trying to follow the example https://github.com/kharkovsailing/MLE_basic_example
 
 ## Repository Structure
 
